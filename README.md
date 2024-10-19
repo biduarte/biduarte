@@ -1,4 +1,4 @@
-Hi, my name is Bianca, learn chemistry in UFMG and learn data science l.
+Hi, my name is Bianca, learn chemistry in UFMG and learn data science.
 
 <!--
 biduarte/biduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
